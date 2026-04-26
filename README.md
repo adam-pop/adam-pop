@@ -8,6 +8,6 @@ I'm a final-year Computer Science student at Heriot-Watt University Edinburgh, p
 Deploying a quantized PointNet on FPGA for real-time 3D point cloud classification for final year project.
 
 ## 👀 Eyeing Projects 
--EEG frequency detection using VAE
--Lightweight MCP server that handles software automation using Claude
--Optimized RAG chatbot benchmarking methodologies
+1. EEG frequency detection using VAE
+2. Lightweight MCP server that handles software automation using Claude
+3. Optimized RAG chatbot benchmarking methodologies
